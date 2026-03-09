@@ -79,7 +79,19 @@ Final outputs will be saved in:
 • `05_visuals/` → figures and maps
 
 
-## 📖 Citation
+## Data Availability
+
+Due to file size limitations, full-resolution Landsat and SEBAL output rasters are not included.
+
+This repository provides:
+
+• visualization outputs
+• workflow scripts
+• processed summaries
+
+Full datasets available upon request.
+
+## Citation
 
 Please cite:
 
@@ -96,7 +108,7 @@ Maskey, M. L. (2026). *Landsat ET preliminary workflow: SEBAL-based evapotranspi
   year         = {2026},
   publisher    = {GitHub},
   journal      = {GitHub repository},
-  url          = {[https://github.com/your-username/your-repo-name](https://github.com/mlmaskey/landsat_et_prelim/}
+  url          = {(https://github.com/mlmaskey/landsat_et_prelim/}
 }
 ```
 
