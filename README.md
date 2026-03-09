@@ -85,7 +85,7 @@ Please cite:
 
 **APA style**
 
-Maskey, M. L. (2026). *Landsat ET preliminary workflow: SEBAL-based evapotranspiration processing*. GitHub repository. https://github.com/your-username/your-repo-name
+Maskey, M. L. (2026). *Landsat ET preliminary workflow: SEBAL-based evapotranspiration processing*. GitHub repository. [https://github.com/your-username/your-repo-name](https://github.com/mlmaskey/landsat_et_prelim)
 
 **BibTeX**
 
@@ -96,7 +96,7 @@ Maskey, M. L. (2026). *Landsat ET preliminary workflow: SEBAL-based evapotranspi
   year         = {2026},
   publisher    = {GitHub},
   journal      = {GitHub repository},
-  url          = {https://github.com/your-username/your-repo-name}
+  url          = {[https://github.com/your-username/your-repo-name](https://github.com/mlmaskey/landsat_et_prelim/}
 }
 ```
 
