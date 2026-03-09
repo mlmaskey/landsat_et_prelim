@@ -97,7 +97,7 @@ Please cite:
 
 **APA style**
 
-Maskey, M. L. (2026). *Landsat ET preliminary workflow: SEBAL-based evapotranspiration processing*. GitHub repository. [https://github.com/your-username/your-repo-name](https://github.com/mlmaskey/landsat_et_prelim)
+Maskey, M. L. (2026). *Landsat ET preliminary workflow: SEBAL-based evapotranspiration processing*. GitHub repository. [(https://github.com/mlmaskey/landsat_et_prelim)](https://github.com/mlmaskey/landsat_et_prelim)
 
 **BibTeX**
 
